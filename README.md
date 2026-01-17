@@ -1,6 +1,6 @@
 # Tangible User Interface Project (TAN25.11)
 
-![TUI Demo](assets/image.png)
+![TUI Demo](image.png)
 
 Dự án bàn tương tác sử dụng computer vision để nhận diện và theo dõi các đối tượng vật lý, hiển thị giao diện tương tác qua projection mapping.
 
@@ -54,7 +54,7 @@ tangible-ui/
 
 1. **Clone repository:**
 ```bash
-git clone https://github.com/yourusername/tangible-ui.git
+git clone https://github.com/DYBInh2k5/Tangible-User-Interface-Project.git
 cd tangible-ui
 ```
 
@@ -115,7 +115,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Liên hệ
 
-Project Link: [https://github.com/yourusername/tangible-ui](https://github.com/yourusername/tangible-ui)
+Project Link: [https://github.com/DYBInh2k5/Tangible-User-Interface-Project](https://github.com/DYBInh2k5/Tangible-User-Interface-Project)
 
 ## 🙏 Acknowledgments
 
